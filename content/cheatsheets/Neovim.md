@@ -1,5 +1,5 @@
 ---
-title: Neovim 
+title: Neovim
 draft: false
 created: 2024-07-11
 tags:
